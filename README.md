@@ -1,5 +1,36 @@
 <h1 align="center">Hi 👋, I'm Prince Jaiswal</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
+🚀 **Aspiring Full-Stack Developer | Chess Enthusiast | Tech Explorer**  
+🎓 First-Year Student at Lovely Professional University  
+💻 Passionate about Web Development, AI, and Problem-Solving  
+🏆 1st Winner in District-Level Chess  
+📚 Author of a School-Published Book (1st Prize Winner)  
+
+## 🔥 About Me
+- 🌍 Founder of **EduPulse** – An AI-powered platform for first-year university students.
+- 🍔 Creator of **FoodHub** – A food ordering platform.
+- 🌱 Currently working on **ZeroMicroPlastic** – A social platform to reduce microplastic pollution.
+- 🤖 Developing a **Bot for my website**.
+
+## 🛠️ Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+## 🚀 Projects
+- **[EduPulse](https://github.com/your-username/edupulse)** – AI-powered academic platform
+- **[FoodHub](https://github.com/your-username/foodhub)** – Online food ordering platform
+- **[ZeroMicroPlastic](https://github.com/your-username/zeromicroplastic)** – Microplastic awareness platform
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://prince-jaiswal.vercel.app/)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince4201&label=Profile%20views&color=0e75b6&style=flat" alt="prince4201" /> </p>
 
